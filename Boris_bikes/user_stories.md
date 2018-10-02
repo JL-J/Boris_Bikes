@@ -1,4 +1,4 @@
-User Story
+User Story 1
 
 | Nouns          |       Verbs |
 |----------------|-------------|
@@ -16,4 +16,13 @@ User Story
 - checks and returns its own working status
 
 ### Docking station ###
-- releases the bike 
+- releases the bike
+
+
+User Story 2
+
+| Nouns          |       Verbs |
+|----------------|-------------|
+|   Person       | Return/dock |
+|   Bike         |             |
+|Docking station |             |
